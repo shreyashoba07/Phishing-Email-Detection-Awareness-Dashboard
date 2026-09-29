@@ -1,0 +1,47 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+.env
+.env.*
+
+# Node.js dependencies
+node_modules/
+
+# Frontend build files
+frontend/dist/
+frontend/build/
+
+# Vite cache
+frontend/.vite/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code local settings
+.vscode/
+
+# Python test/cache files
+.pytest_cache/
+.coverage
+
+# Temporary files
+*.tmp
+*.temp
+
+# Jupyter files
+.ipynb_checkpoints/
